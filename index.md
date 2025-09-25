@@ -2,10 +2,11 @@
 
 ## yakinda kendini yok edecek
 
-![bu sani kedi](https://octodex.github.com/images/yaktocat.png)
-
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the universe! yeey
 
 ``` javascript
 var myVar = "Hi, world!";
 ```
+
